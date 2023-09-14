@@ -1,0 +1,35 @@
+.flag{
+  justify-content: center !important;
+  align-items: center !important;
+  margin-left: 280px;
+}
+
+.fg{
+  margin-right: 10px;
+}
+
+.ab{
+  margin-left: 300px;
+}
+
+.logo{
+  margin-left: 40px;
+}
+
+.car{
+  margin-bottom: 100px;
+}
+
+.ft{
+  background-color: blue;
+  color: white;
+}
+
+.ad{
+  margin-top: -25px;
+}
+
+#offices{
+  display: flex;
+  flex-direction: row;
+}
